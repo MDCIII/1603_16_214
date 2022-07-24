@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:214()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:101" ;
     skos:prefLabel "Provincia Duarte"@spa-Latn ;
-    wdata:q7200235 "DO0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -71,7 +69,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:1001" ;
     skos:prefLabel "Provincia El Seibo"@spa-Latn ;
-    wdata:q7200235 "DO1001" ;
 .
 
 <urn:mdciii:1603:16:214:2:1002>
@@ -80,7 +77,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:1002" ;
     skos:prefLabel "Provincia La Altagracia"@spa-Latn ;
-    wdata:q7200235 "DO1002" ;
 .
 
 <urn:mdciii:1603:16:214:2:1003>
@@ -89,7 +85,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:1003" ;
     skos:prefLabel "Provincia La Romana"@spa-Latn ;
-    wdata:q7200235 "DO1003" ;
 .
 
 <urn:mdciii:1603:16:214:2:102>
@@ -98,7 +93,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:102" ;
     skos:prefLabel "Provincia Hermanas Mirabal"@spa-Latn ;
-    wdata:q7200235 "DO0102" ;
 .
 
 <urn:mdciii:1603:16:214:2:103>
@@ -107,7 +101,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:103" ;
     skos:prefLabel "Provincia María Trinidad Sánchez"@spa-Latn ;
-    wdata:q7200235 "DO0103" ;
 .
 
 <urn:mdciii:1603:16:214:2:104>
@@ -116,7 +109,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:104" ;
     skos:prefLabel "Provincia Samaná"@spa-Latn ;
-    wdata:q7200235 "DO0104" ;
 .
 
 <urn:mdciii:1603:16:214:2:201>
@@ -125,7 +117,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:201" ;
     skos:prefLabel "Provincia Dajabón"@spa-Latn ;
-    wdata:q7200235 "DO0201" ;
 .
 
 <urn:mdciii:1603:16:214:2:202>
@@ -134,7 +125,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:202" ;
     skos:prefLabel "Provincia Monte Cristi"@spa-Latn ;
-    wdata:q7200235 "DO0202" ;
 .
 
 <urn:mdciii:1603:16:214:2:203>
@@ -143,7 +133,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:203" ;
     skos:prefLabel "Provincia Santiago Rodríguez"@spa-Latn ;
-    wdata:q7200235 "DO0203" ;
 .
 
 <urn:mdciii:1603:16:214:2:204>
@@ -152,7 +141,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:204" ;
     skos:prefLabel "Provincia Valverde"@spa-Latn ;
-    wdata:q7200235 "DO0204" ;
 .
 
 <urn:mdciii:1603:16:214:2:301>
@@ -161,7 +149,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:301" ;
     skos:prefLabel "Provincia Espaillat"@spa-Latn ;
-    wdata:q7200235 "DO0301" ;
 .
 
 <urn:mdciii:1603:16:214:2:302>
@@ -170,7 +157,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:302" ;
     skos:prefLabel "Provincia Puerto Plata"@spa-Latn ;
-    wdata:q7200235 "DO0302" ;
 .
 
 <urn:mdciii:1603:16:214:2:303>
@@ -179,7 +165,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:303" ;
     skos:prefLabel "Provincia Santiago"@spa-Latn ;
-    wdata:q7200235 "DO0303" ;
 .
 
 <urn:mdciii:1603:16:214:2:401>
@@ -188,7 +173,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:401" ;
     skos:prefLabel "Provincia La Vega"@spa-Latn ;
-    wdata:q7200235 "DO0401" ;
 .
 
 <urn:mdciii:1603:16:214:2:402>
@@ -197,7 +181,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:402" ;
     skos:prefLabel "Provincia Monseñor Nouel"@spa-Latn ;
-    wdata:q7200235 "DO0402" ;
 .
 
 <urn:mdciii:1603:16:214:2:403>
@@ -206,7 +189,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:403" ;
     skos:prefLabel "Provincia Sánchez Ramírez"@spa-Latn ;
-    wdata:q7200235 "DO0403" ;
 .
 
 <urn:mdciii:1603:16:214:2:501>
@@ -215,7 +197,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:501" ;
     skos:prefLabel "Provincia Elías Piña"@spa-Latn ;
-    wdata:q7200235 "DO0501" ;
 .
 
 <urn:mdciii:1603:16:214:2:502>
@@ -224,7 +205,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:502" ;
     skos:prefLabel "Provincia San Juan"@spa-Latn ;
-    wdata:q7200235 "DO0502" ;
 .
 
 <urn:mdciii:1603:16:214:2:601>
@@ -233,7 +213,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:601" ;
     skos:prefLabel "Provincia Baoruco"@spa-Latn ;
-    wdata:q7200235 "DO0601" ;
 .
 
 <urn:mdciii:1603:16:214:2:602>
@@ -242,7 +221,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:602" ;
     skos:prefLabel "Provincia Barahona"@spa-Latn ;
-    wdata:q7200235 "DO0602" ;
 .
 
 <urn:mdciii:1603:16:214:2:603>
@@ -251,7 +229,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:603" ;
     skos:prefLabel "Provincia Independencia"@spa-Latn ;
-    wdata:q7200235 "DO0603" ;
 .
 
 <urn:mdciii:1603:16:214:2:604>
@@ -260,7 +237,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:604" ;
     skos:prefLabel "Provincia Pedernales"@spa-Latn ;
-    wdata:q7200235 "DO0604" ;
 .
 
 <urn:mdciii:1603:16:214:2:701>
@@ -269,7 +245,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:701" ;
     skos:prefLabel "Provincia Hato Mayor"@spa-Latn ;
-    wdata:q7200235 "DO0701" ;
 .
 
 <urn:mdciii:1603:16:214:2:702>
@@ -278,7 +253,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:702" ;
     skos:prefLabel "Provincia Monte Plata"@spa-Latn ;
-    wdata:q7200235 "DO0702" ;
 .
 
 <urn:mdciii:1603:16:214:2:703>
@@ -287,7 +261,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:703" ;
     skos:prefLabel "Provincia San Pedro de Macorís"@spa-Latn ;
-    wdata:q7200235 "DO0703" ;
 .
 
 <urn:mdciii:1603:16:214:2:801>
@@ -296,7 +269,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:801" ;
     skos:prefLabel "Distrito Nacional"@spa-Latn ;
-    wdata:q7200235 "DO0801" ;
 .
 
 <urn:mdciii:1603:16:214:2:802>
@@ -305,7 +277,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:802" ;
     skos:prefLabel "Provincia Santo Domingo"@spa-Latn ;
-    wdata:q7200235 "DO0802" ;
 .
 
 <urn:mdciii:1603:16:214:2:901>
@@ -314,7 +285,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:901" ;
     skos:prefLabel "Provincia Azua"@spa-Latn ;
-    wdata:q7200235 "DO0901" ;
 .
 
 <urn:mdciii:1603:16:214:2:902>
@@ -323,7 +293,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:902" ;
     skos:prefLabel "Provincia Peravia"@spa-Latn ;
-    wdata:q7200235 "DO0902" ;
 .
 
 <urn:mdciii:1603:16:214:2:903>
@@ -332,7 +301,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:903" ;
     skos:prefLabel "Provincia San Cristóbal"@spa-Latn ;
-    wdata:q7200235 "DO0903" ;
 .
 
 <urn:mdciii:1603:16:214:2:904>
@@ -341,6 +309,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:214:2:904" ;
     skos:prefLabel "Provincia San José de Ocoa"@spa-Latn ;
-    wdata:q7200235 "DO0904" ;
 .
 

@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:1> ;
     skos:prefLabel "Provincia Duarte"@spa-Latn ;
-    wdata:q7200235 "DO0101" ;
+    wdata:Q7200235 "DO0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -78,7 +78,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:10> ;
     skos:prefLabel "Provincia El Seibo"@spa-Latn ;
-    wdata:q7200235 "DO1001" ;
+    wdata:Q7200235 "DO1001" ;
 .
 
 <urn:mdciii:1603:16:214:2:1002>
@@ -90,7 +90,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:10> ;
     skos:prefLabel "Provincia La Altagracia"@spa-Latn ;
-    wdata:q7200235 "DO1002" ;
+    wdata:Q7200235 "DO1002" ;
 .
 
 <urn:mdciii:1603:16:214:2:1003>
@@ -102,7 +102,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:10> ;
     skos:prefLabel "Provincia La Romana"@spa-Latn ;
-    wdata:q7200235 "DO1003" ;
+    wdata:Q7200235 "DO1003" ;
 .
 
 <urn:mdciii:1603:16:214:2:102>
@@ -114,7 +114,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:1> ;
     skos:prefLabel "Provincia Hermanas Mirabal"@spa-Latn ;
-    wdata:q7200235 "DO0102" ;
+    wdata:Q7200235 "DO0102" ;
 .
 
 <urn:mdciii:1603:16:214:2:103>
@@ -126,7 +126,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:1> ;
     skos:prefLabel "Provincia María Trinidad Sánchez"@spa-Latn ;
-    wdata:q7200235 "DO0103" ;
+    wdata:Q7200235 "DO0103" ;
 .
 
 <urn:mdciii:1603:16:214:2:104>
@@ -138,7 +138,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:1> ;
     skos:prefLabel "Provincia Samaná"@spa-Latn ;
-    wdata:q7200235 "DO0104" ;
+    wdata:Q7200235 "DO0104" ;
 .
 
 <urn:mdciii:1603:16:214:2:201>
@@ -150,7 +150,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:2> ;
     skos:prefLabel "Provincia Dajabón"@spa-Latn ;
-    wdata:q7200235 "DO0201" ;
+    wdata:Q7200235 "DO0201" ;
 .
 
 <urn:mdciii:1603:16:214:2:202>
@@ -162,7 +162,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:2> ;
     skos:prefLabel "Provincia Monte Cristi"@spa-Latn ;
-    wdata:q7200235 "DO0202" ;
+    wdata:Q7200235 "DO0202" ;
 .
 
 <urn:mdciii:1603:16:214:2:203>
@@ -174,7 +174,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:2> ;
     skos:prefLabel "Provincia Santiago Rodríguez"@spa-Latn ;
-    wdata:q7200235 "DO0203" ;
+    wdata:Q7200235 "DO0203" ;
 .
 
 <urn:mdciii:1603:16:214:2:204>
@@ -186,7 +186,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:2> ;
     skos:prefLabel "Provincia Valverde"@spa-Latn ;
-    wdata:q7200235 "DO0204" ;
+    wdata:Q7200235 "DO0204" ;
 .
 
 <urn:mdciii:1603:16:214:2:301>
@@ -198,7 +198,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:3> ;
     skos:prefLabel "Provincia Espaillat"@spa-Latn ;
-    wdata:q7200235 "DO0301" ;
+    wdata:Q7200235 "DO0301" ;
 .
 
 <urn:mdciii:1603:16:214:2:302>
@@ -210,7 +210,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:3> ;
     skos:prefLabel "Provincia Puerto Plata"@spa-Latn ;
-    wdata:q7200235 "DO0302" ;
+    wdata:Q7200235 "DO0302" ;
 .
 
 <urn:mdciii:1603:16:214:2:303>
@@ -222,7 +222,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:3> ;
     skos:prefLabel "Provincia Santiago"@spa-Latn ;
-    wdata:q7200235 "DO0303" ;
+    wdata:Q7200235 "DO0303" ;
 .
 
 <urn:mdciii:1603:16:214:2:401>
@@ -234,7 +234,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:4> ;
     skos:prefLabel "Provincia La Vega"@spa-Latn ;
-    wdata:q7200235 "DO0401" ;
+    wdata:Q7200235 "DO0401" ;
 .
 
 <urn:mdciii:1603:16:214:2:402>
@@ -246,7 +246,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:4> ;
     skos:prefLabel "Provincia Monseñor Nouel"@spa-Latn ;
-    wdata:q7200235 "DO0402" ;
+    wdata:Q7200235 "DO0402" ;
 .
 
 <urn:mdciii:1603:16:214:2:403>
@@ -258,7 +258,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:4> ;
     skos:prefLabel "Provincia Sánchez Ramírez"@spa-Latn ;
-    wdata:q7200235 "DO0403" ;
+    wdata:Q7200235 "DO0403" ;
 .
 
 <urn:mdciii:1603:16:214:2:501>
@@ -270,7 +270,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:5> ;
     skos:prefLabel "Provincia Elías Piña"@spa-Latn ;
-    wdata:q7200235 "DO0501" ;
+    wdata:Q7200235 "DO0501" ;
 .
 
 <urn:mdciii:1603:16:214:2:502>
@@ -282,7 +282,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:5> ;
     skos:prefLabel "Provincia San Juan"@spa-Latn ;
-    wdata:q7200235 "DO0502" ;
+    wdata:Q7200235 "DO0502" ;
 .
 
 <urn:mdciii:1603:16:214:2:601>
@@ -294,7 +294,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:6> ;
     skos:prefLabel "Provincia Baoruco"@spa-Latn ;
-    wdata:q7200235 "DO0601" ;
+    wdata:Q7200235 "DO0601" ;
 .
 
 <urn:mdciii:1603:16:214:2:602>
@@ -306,7 +306,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:6> ;
     skos:prefLabel "Provincia Barahona"@spa-Latn ;
-    wdata:q7200235 "DO0602" ;
+    wdata:Q7200235 "DO0602" ;
 .
 
 <urn:mdciii:1603:16:214:2:603>
@@ -318,7 +318,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:6> ;
     skos:prefLabel "Provincia Independencia"@spa-Latn ;
-    wdata:q7200235 "DO0603" ;
+    wdata:Q7200235 "DO0603" ;
 .
 
 <urn:mdciii:1603:16:214:2:604>
@@ -330,7 +330,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:6> ;
     skos:prefLabel "Provincia Pedernales"@spa-Latn ;
-    wdata:q7200235 "DO0604" ;
+    wdata:Q7200235 "DO0604" ;
 .
 
 <urn:mdciii:1603:16:214:2:701>
@@ -342,7 +342,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:7> ;
     skos:prefLabel "Provincia Hato Mayor"@spa-Latn ;
-    wdata:q7200235 "DO0701" ;
+    wdata:Q7200235 "DO0701" ;
 .
 
 <urn:mdciii:1603:16:214:2:702>
@@ -354,7 +354,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:7> ;
     skos:prefLabel "Provincia Monte Plata"@spa-Latn ;
-    wdata:q7200235 "DO0702" ;
+    wdata:Q7200235 "DO0702" ;
 .
 
 <urn:mdciii:1603:16:214:2:703>
@@ -366,7 +366,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:7> ;
     skos:prefLabel "Provincia San Pedro de Macorís"@spa-Latn ;
-    wdata:q7200235 "DO0703" ;
+    wdata:Q7200235 "DO0703" ;
 .
 
 <urn:mdciii:1603:16:214:2:801>
@@ -378,7 +378,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:8> ;
     skos:prefLabel "Distrito Nacional"@spa-Latn ;
-    wdata:q7200235 "DO0801" ;
+    wdata:Q7200235 "DO0801" ;
 .
 
 <urn:mdciii:1603:16:214:2:802>
@@ -390,7 +390,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:8> ;
     skos:prefLabel "Provincia Santo Domingo"@spa-Latn ;
-    wdata:q7200235 "DO0802" ;
+    wdata:Q7200235 "DO0802" ;
 .
 
 <urn:mdciii:1603:16:214:2:901>
@@ -402,7 +402,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:9> ;
     skos:prefLabel "Provincia Azua"@spa-Latn ;
-    wdata:q7200235 "DO0901" ;
+    wdata:Q7200235 "DO0901" ;
 .
 
 <urn:mdciii:1603:16:214:2:902>
@@ -414,7 +414,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:9> ;
     skos:prefLabel "Provincia Peravia"@spa-Latn ;
-    wdata:q7200235 "DO0902" ;
+    wdata:Q7200235 "DO0902" ;
 .
 
 <urn:mdciii:1603:16:214:2:903>
@@ -426,7 +426,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:9> ;
     skos:prefLabel "Provincia San Cristóbal"@spa-Latn ;
-    wdata:q7200235 "DO0903" ;
+    wdata:Q7200235 "DO0903" ;
 .
 
 <urn:mdciii:1603:16:214:2:904>
@@ -438,6 +438,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:214:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:214:1:9> ;
     skos:prefLabel "Provincia San José de Ocoa"@spa-Latn ;
-    wdata:q7200235 "DO0904" ;
+    wdata:Q7200235 "DO0904" ;
 .
 
